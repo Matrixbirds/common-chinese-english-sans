@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Common Chinese English Sans</title>
+<link rel="stylesheet" href="style.css">
+<main><small>COMMON CHINESE · ENGLISH HINTS</small><h1>读中文，顺便学英语。</h1>
+<p>英文是词汇提示，不是自然英文句子。文本本身保持中文。</p>
+<section><div class="controls"><button id="toggle">隐藏英文</button><label>字号 <input id="size" type="range" min="24" max="64" value="36"></label></div>
+<div id="sample" contenteditable="true" spellcheck="false">我是中国人。
+我喜欢学习中文。
+请打开浏览器。
+搜索附近的地铁站。</div></section>
+<p id="status">正在加载字体与词库…</p><div class="controls"><input id="search" placeholder="搜索中文、英文或拼音"><select id="kind"><option value="all">全部词汇</option><option value="single">单字</option><option value="word">多字词</option></select></div>
+<p id="count"></p><div id="grid"></div><footer>自动选义仍待审校；同形词采用固定默认含义。CL 表示量词。行尾换行可能拆开整词。代码 MIT，字体 OFL，数据 CC BY-SA。</footer></main>
+<script type="module" src="app.js"></script></html>

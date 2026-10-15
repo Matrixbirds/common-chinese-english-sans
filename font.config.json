@@ -1,0 +1,17 @@
+{
+  "family": "Common Chinese English Sans",
+  "postscriptName": "CommonChineseEnglishSans-Regular",
+  "version": "0.2.0",
+  "base": {
+    "path": ".cache/base.otf",
+    "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/SubsetOTF/SC/NotoSansSC-Regular.otf",
+    "sha256": "faa6c9df652116dde789d351359f3d7e5d2285a2b2a1f04a2d7244df706d5ea9",
+    "license": "SIL OFL 1.1"
+  },
+  "vocabulary": "data/vocabulary.json",
+  "protection": "data/protection.json",
+  "outDir": "dist",
+  "annotationScale": 0.32,
+  "annotationBaseline": 940,
+  "buildEpoch": 1792022400
+}

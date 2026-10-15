@@ -1,0 +1,5790 @@
+[
+  {
+    "hanzi": "美国",
+    "frequency": 6.14
+  },
+  {
+    "hanzi": "日本",
+    "frequency": 5.96
+  },
+  {
+    "hanzi": "香港",
+    "frequency": 5.82
+  },
+  {
+    "hanzi": "北京",
+    "frequency": 5.75
+  },
+  {
+    "hanzi": "两个",
+    "frequency": 5.62
+  },
+  {
+    "hanzi": "这是",
+    "frequency": 5.62
+  },
+  {
+    "hanzi": "很多",
+    "frequency": 5.59
+  },
+  {
+    "hanzi": "台湾",
+    "frequency": 5.58
+  },
+  {
+    "hanzi": "上海",
+    "frequency": 5.53
+  },
+  {
+    "hanzi": "最大",
+    "frequency": 5.48
+  },
+  {
+    "hanzi": "英国",
+    "frequency": 5.48
+  },
+  {
+    "hanzi": "韩国",
+    "frequency": 5.43
+  },
+  {
+    "hanzi": "法国",
+    "frequency": 5.42
+  },
+  {
+    "hanzi": "欧洲",
+    "frequency": 5.37
+  },
+  {
+    "hanzi": "德国",
+    "frequency": 5.33
+  },
+  {
+    "hanzi": "来说",
+    "frequency": 5.32
+  },
+  {
+    "hanzi": "这次",
+    "frequency": 5.32
+  },
+  {
+    "hanzi": "俄罗斯",
+    "frequency": 5.29
+  },
+  {
+    "hanzi": "一位",
+    "frequency": 5.28
+  },
+  {
+    "hanzi": "一天",
+    "frequency": 5.25
+  },
+  {
+    "hanzi": "印度",
+    "frequency": 5.24
+  },
+  {
+    "hanzi": "美元",
+    "frequency": 5.24
+  },
+  {
+    "hanzi": "亿",
+    "frequency": 5.23
+  },
+  {
+    "hanzi": "亚洲",
+    "frequency": 5.22
+  },
+  {
+    "hanzi": "所谓",
+    "frequency": 5.22
+  },
+  {
+    "hanzi": "三个",
+    "frequency": 5.21
+  },
+  {
+    "hanzi": "一年",
+    "frequency": 5.18
+  },
+  {
+    "hanzi": "一条",
+    "frequency": 5.18
+  },
+  {
+    "hanzi": "有没有",
+    "frequency": 5.18
+  },
+  {
+    "hanzi": "苏联",
+    "frequency": 5.16
+  },
+  {
+    "hanzi": "一名",
+    "frequency": 5.15
+  },
+  {
+    "hanzi": "一场",
+    "frequency": 5.13
+  },
+  {
+    "hanzi": "加拿大",
+    "frequency": 5.13
+  },
+  {
+    "hanzi": "中共",
+    "frequency": 5.12
+  },
+  {
+    "hanzi": "国务院",
+    "frequency": 5.11
+  },
+  {
+    "hanzi": "还要",
+    "frequency": 5.11
+  },
+  {
+    "hanzi": "广州",
+    "frequency": 5.08
+  },
+  {
+    "hanzi": "英语",
+    "frequency": 5.07
+  },
+  {
+    "hanzi": "共产党",
+    "frequency": 5.05
+  },
+  {
+    "hanzi": "广东",
+    "frequency": 5.05
+  },
+  {
+    "hanzi": "朝鲜",
+    "frequency": 5.04
+  },
+  {
+    "hanzi": "我要",
+    "frequency": 5.03
+  },
+  {
+    "hanzi": "是因为",
+    "frequency": 5.03
+  },
+  {
+    "hanzi": "毛泽东",
+    "frequency": 5.03
+  },
+  {
+    "hanzi": "一张",
+    "frequency": 5.02
+  },
+  {
+    "hanzi": "联合国",
+    "frequency": 5.0
+  },
+  {
+    "hanzi": "南京",
+    "frequency": 4.99
+  },
+  {
+    "hanzi": "很大",
+    "frequency": 4.99
+  },
+  {
+    "hanzi": "很快",
+    "frequency": 4.99
+  },
+  {
+    "hanzi": "我会",
+    "frequency": 4.99
+  },
+  {
+    "hanzi": "中华",
+    "frequency": 4.98
+  },
+  {
+    "hanzi": "看着",
+    "frequency": 4.98
+  },
+  {
+    "hanzi": "纽约",
+    "frequency": 4.98
+  },
+  {
+    "hanzi": "英文",
+    "frequency": 4.98
+  },
+  {
+    "hanzi": "重视",
+    "frequency": 4.98
+  },
+  {
+    "hanzi": "更好",
+    "frequency": 4.96
+  },
+  {
+    "hanzi": "一件",
+    "frequency": 4.95
+  },
+  {
+    "hanzi": "一段",
+    "frequency": 4.95
+  },
+  {
+    "hanzi": "万元",
+    "frequency": 4.95
+  },
+  {
+    "hanzi": "亿元",
+    "frequency": 4.95
+  },
+  {
+    "hanzi": "国民党",
+    "frequency": 4.95
+  },
+  {
+    "hanzi": "西班牙",
+    "frequency": 4.95
+  },
+  {
+    "hanzi": "山东",
+    "frequency": 4.94
+  },
+  {
+    "hanzi": "新加坡",
+    "frequency": 4.94
+  },
+  {
+    "hanzi": "第一个",
+    "frequency": 4.94
+  },
+  {
+    "hanzi": "东京",
+    "frequency": 4.93
+  },
+  {
+    "hanzi": "份",
+    "frequency": 4.93
+  },
+  {
+    "hanzi": "澳门",
+    "frequency": 4.93
+  },
+  {
+    "hanzi": "给予",
+    "frequency": 4.93
+  },
+  {
+    "hanzi": "这件",
+    "frequency": 4.93
+  },
+  {
+    "hanzi": "非洲",
+    "frequency": 4.93
+  },
+  {
+    "hanzi": "两年",
+    "frequency": 4.92
+  },
+  {
+    "hanzi": "天津",
+    "frequency": 4.92
+  },
+  {
+    "hanzi": "武汉",
+    "frequency": 4.92
+  },
+  {
+    "hanzi": "中华人民共和国",
+    "frequency": 4.91
+  },
+  {
+    "hanzi": "一项",
+    "frequency": 4.9
+  },
+  {
+    "hanzi": "深圳",
+    "frequency": 4.9
+  },
+  {
+    "hanzi": "一步",
+    "frequency": 4.89
+  },
+  {
+    "hanzi": "放在",
+    "frequency": 4.89
+  },
+  {
+    "hanzi": "三年",
+    "frequency": 4.88
+  },
+  {
+    "hanzi": "不敢",
+    "frequency": 4.88
+  },
+  {
+    "hanzi": "巴黎",
+    "frequency": 4.88
+  },
+  {
+    "hanzi": "有个",
+    "frequency": 4.87
+  },
+  {
+    "hanzi": "一份",
+    "frequency": 4.86
+  },
+  {
+    "hanzi": "一部",
+    "frequency": 4.86
+  },
+  {
+    "hanzi": "任何人",
+    "frequency": 4.86
+  },
+  {
+    "hanzi": "四个",
+    "frequency": 4.86
+  },
+  {
+    "hanzi": "来看",
+    "frequency": 4.86
+  },
+  {
+    "hanzi": "重庆",
+    "frequency": 4.86
+  },
+  {
+    "hanzi": "像是",
+    "frequency": 4.85
+  },
+  {
+    "hanzi": "江苏",
+    "frequency": 4.85
+  },
+  {
+    "hanzi": "上帝",
+    "frequency": 4.84
+  },
+  {
+    "hanzi": "人大",
+    "frequency": 4.84
+  },
+  {
+    "hanzi": "新疆",
+    "frequency": 4.84
+  },
+  {
+    "hanzi": "澳洲",
+    "frequency": 4.84
+  },
+  {
+    "hanzi": "百度",
+    "frequency": 4.84
+  },
+  {
+    "hanzi": "巴西",
+    "frequency": 4.83
+  },
+  {
+    "hanzi": "第三",
+    "frequency": 4.83
+  },
+  {
+    "hanzi": "越南",
+    "frequency": 4.83
+  },
+  {
+    "hanzi": "一只",
+    "frequency": 4.82
+  },
+  {
+    "hanzi": "一群",
+    "frequency": 4.82
+  },
+  {
+    "hanzi": "尝试",
+    "frequency": 4.82
+  },
+  {
+    "hanzi": "泰国",
+    "frequency": 4.82
+  },
+  {
+    "hanzi": "视",
+    "frequency": 4.82
+  },
+  {
+    "hanzi": "中国共产党",
+    "frequency": 4.81
+  },
+  {
+    "hanzi": "十年",
+    "frequency": 4.81
+  },
+  {
+    "hanzi": "西藏",
+    "frequency": 4.81
+  },
+  {
+    "hanzi": "两种",
+    "frequency": 4.8
+  },
+  {
+    "hanzi": "马来西亚",
+    "frequency": 4.8
+  },
+  {
+    "hanzi": "这一",
+    "frequency": 4.79
+  },
+  {
+    "hanzi": "一座",
+    "frequency": 4.78
+  },
+  {
+    "hanzi": "云南",
+    "frequency": 4.78
+  },
+  {
+    "hanzi": "伦敦",
+    "frequency": 4.78
+  },
+  {
+    "hanzi": "意大利",
+    "frequency": 4.78
+  },
+  {
+    "hanzi": "鬼",
+    "frequency": 4.78
+  },
+  {
+    "hanzi": "四川",
+    "frequency": 4.77
+  },
+  {
+    "hanzi": "国会",
+    "frequency": 4.77
+  },
+  {
+    "hanzi": "亿美元",
+    "frequency": 4.76
+  },
+  {
+    "hanzi": "俄国",
+    "frequency": 4.76
+  },
+  {
+    "hanzi": "韩",
+    "frequency": 4.76
+  },
+  {
+    "hanzi": "伊朗",
+    "frequency": 4.75
+  },
+  {
+    "hanzi": "坐在",
+    "frequency": 4.75
+  },
+  {
+    "hanzi": "希腊",
+    "frequency": 4.75
+  },
+  {
+    "hanzi": "浙江",
+    "frequency": 4.75
+  },
+  {
+    "hanzi": "一片",
+    "frequency": 4.74
+  },
+  {
+    "hanzi": "两位",
+    "frequency": 4.74
+  },
+  {
+    "hanzi": "欧盟",
+    "frequency": 4.74
+  },
+  {
+    "hanzi": "环保",
+    "frequency": 4.74
+  },
+  {
+    "hanzi": "这场",
+    "frequency": 4.74
+  },
+  {
+    "hanzi": "两人",
+    "frequency": 4.73
+  },
+  {
+    "hanzi": "乌克兰",
+    "frequency": 4.73
+  },
+  {
+    "hanzi": "而言",
+    "frequency": 4.73
+  },
+  {
+    "hanzi": "五年",
+    "frequency": 4.72
+  },
+  {
+    "hanzi": "河南",
+    "frequency": 4.72
+  },
+  {
+    "hanzi": "澳大利亚",
+    "frequency": 4.72
+  },
+  {
+    "hanzi": "纪录",
+    "frequency": 4.72
+  },
+  {
+    "hanzi": "荷兰",
+    "frequency": 4.72
+  },
+  {
+    "hanzi": "其他人",
+    "frequency": 4.71
+  },
+  {
+    "hanzi": "成都",
+    "frequency": 4.71
+  },
+  {
+    "hanzi": "看过",
+    "frequency": 4.71
+  },
+  {
+    "hanzi": "约翰",
+    "frequency": 4.71
+  },
+  {
+    "hanzi": "罗马",
+    "frequency": 4.71
+  },
+  {
+    "hanzi": "手中",
+    "frequency": 4.7
+  },
+  {
+    "hanzi": "是从",
+    "frequency": 4.7
+  },
+  {
+    "hanzi": "湖南",
+    "frequency": 4.7
+  },
+  {
+    "hanzi": "做好",
+    "frequency": 4.69
+  },
+  {
+    "hanzi": "很少",
+    "frequency": 4.69
+  },
+  {
+    "hanzi": "推特",
+    "frequency": 4.69
+  },
+  {
+    "hanzi": "早就",
+    "frequency": 4.69
+  },
+  {
+    "hanzi": "一个月",
+    "frequency": 4.68
+  },
+  {
+    "hanzi": "两次",
+    "frequency": 4.68
+  },
+  {
+    "hanzi": "只会",
+    "frequency": 4.68
+  },
+  {
+    "hanzi": "各项",
+    "frequency": 4.68
+  },
+  {
+    "hanzi": "墨西哥",
+    "frequency": 4.68
+  },
+  {
+    "hanzi": "最低",
+    "frequency": 4.68
+  },
+  {
+    "hanzi": "湖北",
+    "frequency": 4.68
+  },
+  {
+    "hanzi": "一颗",
+    "frequency": 4.67
+  },
+  {
+    "hanzi": "两天",
+    "frequency": 4.67
+  },
+  {
+    "hanzi": "广西",
+    "frequency": 4.67
+  },
+  {
+    "hanzi": "自治区",
+    "frequency": 4.67
+  },
+  {
+    "hanzi": "墙",
+    "frequency": 4.66
+  },
+  {
+    "hanzi": "生于",
+    "frequency": 4.66
+  },
+  {
+    "hanzi": "第四",
+    "frequency": 4.66
+  },
+  {
+    "hanzi": "以色列",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "天安门",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "对此",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "尼",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "某个",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "河北",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "留在",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "瞭解",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "该国",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "院长",
+    "frequency": 4.65
+  },
+  {
+    "hanzi": "剑",
+    "frequency": 4.64
+  },
+  {
+    "hanzi": "华人",
+    "frequency": 4.64
+  },
+  {
+    "hanzi": "微软",
+    "frequency": 4.64
+  },
+  {
+    "hanzi": "穆斯林",
+    "frequency": 4.64
+  },
+  {
+    "hanzi": "高校",
+    "frequency": 4.64
+  },
+  {
+    "hanzi": "叙利亚",
+    "frequency": 4.63
+  },
+  {
+    "hanzi": "基督教",
+    "frequency": 4.63
+  },
+  {
+    "hanzi": "奥运",
+    "frequency": 4.63
+  },
+  {
+    "hanzi": "文献",
+    "frequency": 4.63
+  },
+  {
+    "hanzi": "电视剧",
+    "frequency": 4.63
+  },
+  {
+    "hanzi": "福建",
+    "frequency": 4.63
+  },
+  {
+    "hanzi": "联",
+    "frequency": 4.63
+  },
+  {
+    "hanzi": "不让",
+    "frequency": 4.62
+  },
+  {
+    "hanzi": "与其",
+    "frequency": 4.62
+  },
+  {
+    "hanzi": "哥",
+    "frequency": 4.62
+  },
+  {
+    "hanzi": "土耳其",
+    "frequency": 4.62
+  },
+  {
+    "hanzi": "所说",
+    "frequency": 4.62
+  },
+  {
+    "hanzi": "杭州",
+    "frequency": 4.62
+  },
+  {
+    "hanzi": "埃及",
+    "frequency": 4.61
+  },
+  {
+    "hanzi": "波兰",
+    "frequency": 4.61
+  },
+  {
+    "hanzi": "缅甸",
+    "frequency": 4.61
+  },
+  {
+    "hanzi": "已有",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "床上",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "想着",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "最早",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "江西",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "西安",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "邓小平",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "陕西",
+    "frequency": 4.6
+  },
+  {
+    "hanzi": "一把",
+    "frequency": 4.59
+  },
+  {
+    "hanzi": "万美元",
+    "frequency": 4.59
+  },
+  {
+    "hanzi": "五个",
+    "frequency": 4.59
+  },
+  {
+    "hanzi": "四年",
+    "frequency": 4.59
+  },
+  {
+    "hanzi": "很难",
+    "frequency": 4.59
+  },
+  {
+    "hanzi": "还会",
+    "frequency": 4.59
+  },
+  {
+    "hanzi": "世界杯",
+    "frequency": 4.58
+  },
+  {
+    "hanzi": "公寓",
+    "frequency": 4.58
+  },
+  {
+    "hanzi": "想想",
+    "frequency": 4.58
+  },
+  {
+    "hanzi": "莫斯科",
+    "frequency": 4.58
+  },
+  {
+    "hanzi": "两名",
+    "frequency": 4.57
+  },
+  {
+    "hanzi": "伊拉克",
+    "frequency": 4.57
+  },
+  {
+    "hanzi": "华盛顿",
+    "frequency": 4.57
+  },
+  {
+    "hanzi": "总会",
+    "frequency": 4.57
+  },
+  {
+    "hanzi": "试试",
+    "frequency": 4.57
+  },
+  {
+    "hanzi": "青岛",
+    "frequency": 4.57
+  },
+  {
+    "hanzi": "印尼",
+    "frequency": 4.56
+  },
+  {
+    "hanzi": "本书",
+    "frequency": 4.56
+  },
+  {
+    "hanzi": "洛杉矶",
+    "frequency": 4.56
+  },
+  {
+    "hanzi": "美军",
+    "frequency": 4.56
+  },
+  {
+    "hanzi": "一批",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "东南亚",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "十大",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "回国",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "太平洋",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "巴基斯坦",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "蒙古",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "这部",
+    "frequency": 4.55
+  },
+  {
+    "hanzi": "北京市",
+    "frequency": 4.54
+  },
+  {
+    "hanzi": "山西",
+    "frequency": 4.54
+  },
+  {
+    "hanzi": "一支",
+    "frequency": 4.53
+  },
+  {
+    "hanzi": "岛上",
+    "frequency": 4.53
+  },
+  {
+    "hanzi": "犹太人",
+    "frequency": 4.53
+  },
+  {
+    "hanzi": "一篇",
+    "frequency": 4.52
+  },
+  {
+    "hanzi": "一辆",
+    "frequency": 4.52
+  },
+  {
+    "hanzi": "家中",
+    "frequency": 4.52
+  },
+  {
+    "hanzi": "瑞典",
+    "frequency": 4.52
+  },
+  {
+    "hanzi": "苏州",
+    "frequency": 4.52
+  },
+  {
+    "hanzi": "这份",
+    "frequency": 4.52
+  },
+  {
+    "hanzi": "长沙",
+    "frequency": 4.52
+  },
+  {
+    "hanzi": "一大",
+    "frequency": 4.51
+  },
+  {
+    "hanzi": "一间",
+    "frequency": 4.51
+  },
+  {
+    "hanzi": "南非",
+    "frequency": 4.51
+  },
+  {
+    "hanzi": "江泽民",
+    "frequency": 4.51
+  },
+  {
+    "hanzi": "这项",
+    "frequency": 4.51
+  },
+  {
+    "hanzi": "阿拉伯",
+    "frequency": 4.51
+  },
+  {
+    "hanzi": "一本",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "佛教",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "大连",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "展现",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "我家",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "我爱你",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "耶稣",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "脸上",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "行政区划",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "计画",
+    "frequency": 4.5
+  },
+  {
+    "hanzi": "三天",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "加州",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "可用",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "台北",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "大桥",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "安徽",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "时报",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "腾讯",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "阿里",
+    "frequency": 4.49
+  },
+  {
+    "hanzi": "习近平",
+    "frequency": 4.48
+  },
+  {
+    "hanzi": "伊斯兰",
+    "frequency": 4.48
+  },
+  {
+    "hanzi": "辽宁",
+    "frequency": 4.48
+  },
+  {
+    "hanzi": "这点",
+    "frequency": 4.48
+  },
+  {
+    "hanzi": "奥运会",
+    "frequency": 4.47
+  },
+  {
+    "hanzi": "三国",
+    "frequency": 4.46
+  },
+  {
+    "hanzi": "中东",
+    "frequency": 4.46
+  },
+  {
+    "hanzi": "只好",
+    "frequency": 4.46
+  },
+  {
+    "hanzi": "抗战",
+    "frequency": 4.46
+  },
+  {
+    "hanzi": "晚安",
+    "frequency": 4.46
+  },
+  {
+    "hanzi": "民国",
+    "frequency": 4.46
+  },
+  {
+    "hanzi": "黑龙江",
+    "frequency": 4.46
+  },
+  {
+    "hanzi": "人会",
+    "frequency": 4.45
+  },
+  {
+    "hanzi": "央视",
+    "frequency": 4.45
+  },
+  {
+    "hanzi": "带有",
+    "frequency": 4.45
+  },
+  {
+    "hanzi": "控股",
+    "frequency": 4.45
+  },
+  {
+    "hanzi": "政协",
+    "frequency": 4.45
+  },
+  {
+    "hanzi": "贵州",
+    "frequency": 4.45
+  },
+  {
+    "hanzi": "中国政府",
+    "frequency": 4.44
+  },
+  {
+    "hanzi": "丹麦",
+    "frequency": 4.44
+  },
+  {
+    "hanzi": "匈牙利",
+    "frequency": 4.44
+  },
+  {
+    "hanzi": "部份",
+    "frequency": 4.44
+  },
+  {
+    "hanzi": "长江",
+    "frequency": 4.44
+  },
+  {
+    "hanzi": "一日",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "一款",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "周恩来",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "新华社",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "民主党",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "罢了",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "身分",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "这张",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "送到",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "郑州",
+    "frequency": 4.43
+  },
+  {
+    "hanzi": "化工",
+    "frequency": 4.42
+  },
+  {
+    "hanzi": "厦门",
+    "frequency": 4.42
+  },
+  {
+    "hanzi": "欧美",
+    "frequency": 4.42
+  },
+  {
+    "hanzi": "葡萄牙",
+    "frequency": 4.42
+  },
+  {
+    "hanzi": "万岁",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "东亚",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "伊斯兰教",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "内蒙古",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "哈尔滨",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "四大",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "官方网站",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "就让",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "当事人",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "本次",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "济南",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "海南",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "瑞士",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "解放军",
+    "frequency": 4.41
+  },
+  {
+    "hanzi": "二人",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "多人",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "常委",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "教育部",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "甘肃",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "网易",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "般的",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "车上",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "阿根廷",
+    "frequency": 4.4
+  },
+  {
+    "hanzi": "六个",
+    "frequency": 4.39
+  },
+  {
+    "hanzi": "官网",
+    "frequency": 4.39
+  },
+  {
+    "hanzi": "手上",
+    "frequency": 4.39
+  },
+  {
+    "hanzi": "新浪",
+    "frequency": 4.39
+  },
+  {
+    "hanzi": "沈阳",
+    "frequency": 4.39
+  },
+  {
+    "hanzi": "甚么",
+    "frequency": 4.39
+  },
+  {
+    "hanzi": "这家",
+    "frequency": 4.39
+  },
+  {
+    "hanzi": "一段时间",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "人大代表",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "会长",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "党委",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "同一个",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "大厦",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "我能",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "汉族",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "第二个",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "行政区",
+    "frequency": 4.38
+  },
+  {
+    "hanzi": "一根",
+    "frequency": 4.37
+  },
+  {
+    "hanzi": "乔治",
+    "frequency": 4.37
+  },
+  {
+    "hanzi": "南海",
+    "frequency": 4.37
+  },
+  {
+    "hanzi": "古巴",
+    "frequency": 4.37
+  },
+  {
+    "hanzi": "天安门广场",
+    "frequency": 4.37
+  },
+  {
+    "hanzi": "柬埔寨",
+    "frequency": 4.37
+  },
+  {
+    "hanzi": "一台",
+    "frequency": 4.36
+  },
+  {
+    "hanzi": "二战",
+    "frequency": 4.36
+  },
+  {
+    "hanzi": "小女孩",
+    "frequency": 4.36
+  },
+  {
+    "hanzi": "日语",
+    "frequency": 4.36
+  },
+  {
+    "hanzi": "最长",
+    "frequency": 4.36
+  },
+  {
+    "hanzi": "看不到",
+    "frequency": 4.36
+  },
+  {
+    "hanzi": "董事长",
+    "frequency": 4.36
+  },
+  {
+    "hanzi": "之声",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "他会",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "六年",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "办公",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "天主教",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "更大",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "特区",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "研制",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "西亚",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "阿富汗",
+    "frequency": 4.35
+  },
+  {
+    "hanzi": "保罗",
+    "frequency": 4.34
+  },
+  {
+    "hanzi": "公元",
+    "frequency": 4.34
+  },
+  {
+    "hanzi": "希特勒",
+    "frequency": 4.34
+  },
+  {
+    "hanzi": "法语",
+    "frequency": 4.34
+  },
+  {
+    "hanzi": "玫瑰",
+    "frequency": 4.34
+  },
+  {
+    "hanzi": "红军",
+    "frequency": 4.34
+  },
+  {
+    "hanzi": "蒋介石",
+    "frequency": 4.34
+  },
+  {
+    "hanzi": "一处",
+    "frequency": 4.33
+  },
+  {
+    "hanzi": "八年",
+    "frequency": 4.33
+  },
+  {
+    "hanzi": "这座",
+    "frequency": 4.33
+  },
+  {
+    "hanzi": "一组",
+    "frequency": 4.32
+  },
+  {
+    "hanzi": "中有",
+    "frequency": 4.32
+  },
+  {
+    "hanzi": "奥地利",
+    "frequency": 4.32
+  },
+  {
+    "hanzi": "美国政府",
+    "frequency": 4.32
+  },
+  {
+    "hanzi": "鉴定",
+    "frequency": 4.32
+  },
+  {
+    "hanzi": "高考",
+    "frequency": 4.32
+  },
+  {
+    "hanzi": "一分钟",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "万吨",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "中医",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "养老",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "印度尼西亚",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "和尚",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "广东省",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "很棒",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "柏林",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "爱尔兰",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "詹姆斯",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "这句",
+    "frequency": 4.31
+  },
+  {
+    "hanzi": "亚马逊",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "卡尔",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "国语",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "将领",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "尼亚",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "帐号",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "搜狐",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "无论是",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "春节",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "苏维埃",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "这才",
+    "frequency": 4.3
+  },
+  {
+    "hanzi": "一首",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "三种",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "基督徒",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "安娜",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "彼得",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "政变",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "新西兰",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "昆明",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "最强",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "纳粹",
+    "frequency": 4.29
+  },
+  {
+    "hanzi": "不太",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "多名",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "奥斯卡",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "完整版",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "总面积",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "日军",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "演唱会",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "说完",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "那位",
+    "frequency": 4.28
+  },
+  {
+    "hanzi": "一夜",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "一架",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "中共中央",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "北美",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "吉林",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "日起",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "比利时",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "水中",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "眼里",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "走上",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "首歌",
+    "frequency": 4.27
+  },
+  {
+    "hanzi": "一是",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "东海",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "中华民国",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "五大",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "光绪",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "几位",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "宁波",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "帐户",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "星期一",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "贝尔",
+    "frequency": 4.26
+  },
+  {
+    "hanzi": "不肯",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "亚历山大",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "会上",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "列宁",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "哥伦比亚",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "带到",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "江南",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "演奏",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "福州",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "长春",
+    "frequency": 4.25
+  },
+  {
+    "hanzi": "一番",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "七个",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "北大",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "多家",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "德州",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "我刚",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "最小",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "白宫",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "秘鲁",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "这块",
+    "frequency": 4.24
+  },
+  {
+    "hanzi": "一股",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "三大",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "不像",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "中山",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "大卫",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "好消息",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "星期六",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "最快",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "签约",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "马克思",
+    "frequency": 4.23
+  },
+  {
+    "hanzi": "一顿",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "中原",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "公元前",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "几分钟",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "北约",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "同比",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "基督",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "嫁给",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "孔子",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "找个",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "挪威",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "首尔",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "鲁迅",
+    "frequency": 4.22
+  },
+  {
+    "hanzi": "一所",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "七年",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "三位",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "入学",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "八个",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "园区",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "小小的",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "捷克",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "斯大林",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "第一位",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "给出",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "芬兰",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "英格兰",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "解决方案",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "这话",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "问问",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "黄河",
+    "frequency": 4.21
+  },
+  {
+    "hanzi": "两家",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "二十年",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "几十年",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "周五",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "墙上",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "孙中山",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "文革",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "此举",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "罗斯",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "评选",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "语文",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "长时间",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "陕西省",
+    "frequency": 4.2
+  },
+  {
+    "hanzi": "一杯",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "主义者",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "多项",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "威廉",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "很小",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "很长",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "现已",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "用力",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "芝加哥",
+    "frequency": 4.19
+  },
+  {
+    "hanzi": "一分",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "一百",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "不同于",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "华北",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "县委",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "各省",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "周六",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "我来",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "早安",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "第二季",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "西欧",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "课堂",
+    "frequency": 4.18
+  },
+  {
+    "hanzi": "一事",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "一副",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "一幅",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "上海市",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "不远",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "人能",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "口中",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "听听",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "哈利",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "增设",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "库存",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "新华网",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "第一天",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "美的",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "美金",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "船上",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "被判",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "谷歌",
+    "frequency": 4.17
+  },
+  {
+    "hanzi": "一笔",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "中小",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "党中央",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "兰州",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "十个",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "周一",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "圣诞节",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "地说",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "太原",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "打工",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "放到",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "星期五",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "江苏省",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "第六",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "米兰",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "起到",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "院士",
+    "frequency": 4.16
+  },
+  {
+    "hanzi": "两地",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "全国政协",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "华为",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "南昌",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "去过",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "智利",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "最具",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "本周",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "深受",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "满洲",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "省委",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "第三次",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "西班牙语",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "这方面",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "银河",
+    "frequency": 4.15
+  },
+  {
+    "hanzi": "一词",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "下达",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "中文版",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "全是",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "卡特",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "卫视",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "国务卿",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "对策",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "山上",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "布朗",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "年内",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "日文",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "纽约时报",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "艾滋病",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "青海",
+    "frequency": 4.14
+  },
+  {
+    "hanzi": "一小",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "专属",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "两条",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "二年",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "你家",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "城里",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "宁夏",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "尼泊尔",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "戏曲",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "来不及",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "洛阳",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "温州",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "湖北省",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "特朗普",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "献给",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "神父",
+    "frequency": 4.13
+  },
+  {
+    "hanzi": "一丝",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "一枚",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "三名",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "不去",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "与会",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "中亚",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "做成",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "写成",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "国防部",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "大西洋",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "好几个",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "始于",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "无锡",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "清朝",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "罗马尼亚",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "雅典",
+    "frequency": 4.12
+  },
+  {
+    "hanzi": "不吃",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "两周",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "之旅",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "也门",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "人民日报",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "北京大学",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "可不",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "奥巴马",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "山东省",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "比利",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "波士顿",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "波斯",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "老鼠",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "苏格兰",
+    "frequency": 4.11
+  },
+  {
+    "hanzi": "东欧",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "北平",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "南宁",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "延安",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "德里",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "我用",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "最新消息",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "汉人",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "玛丽",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "白俄罗斯",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "第七",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "这笔",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "马丁",
+    "frequency": 4.1
+  },
+  {
+    "hanzi": "一期",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "三人",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "两座",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "中国科学院",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "云南省",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "人来",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "做些",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "别忘了",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "南斯拉夫",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "增至",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "威尼斯",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "巴勒斯坦",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "布什",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "战国",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "清代",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "清华大学",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "第一季",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "该校",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "这会",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "这时候",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "阿拉",
+    "frequency": 4.09
+  },
+  {
+    "hanzi": "一封",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "东北部",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "先是",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "克斯",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "啪啪",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "多伦多",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "拆迁",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "拉萨",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "斯特",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "棋牌",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "段时间",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "用地",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "电话号码",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "维也纳",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "美少女",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "而成",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "胡锦涛",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "陛下",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "马克思主义",
+    "frequency": 4.08
+  },
+  {
+    "hanzi": "三十年",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "三点",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "中旬",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "尼克",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "建制",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "抗日战争",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "晋升",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "最美",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "省政府",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "管理局",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "解决问题",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "那年",
+    "frequency": 4.07
+  },
+  {
+    "hanzi": "一千",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "两点",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "为名",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "九个",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "人大常委会",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "传到",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "几种",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "只想",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "周二",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "屋里",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "恐龙",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "推特上",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "旧金山",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "普通话",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "清华",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "知识产权",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "短篇",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "穆罕默德",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "粤语",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "索尼",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "罗伯特",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "这套",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "首个",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "高中生",
+    "frequency": 4.06
+  },
+  {
+    "hanzi": "一切都是",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "东莞",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "两大",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "为啥",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "之名",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "俄语",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "国情",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "宪政",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "巴拿马",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "市政",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "想过",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "我妈",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "拉美",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "浙江省",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "航母",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "转为",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "首府",
+    "frequency": 4.05
+  },
+  {
+    "hanzi": "一万",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "一艘",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "两项",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "为例",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "入选",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "北韩",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "史料",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "号线",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "各大",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "合肥",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "四川省",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "国共",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "塞尔维亚",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "多万",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "歌剧",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "河南省",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "湖南省",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "玛丽亚",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "艾伦",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "这片",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "远东",
+    "frequency": 4.04
+  },
+  {
+    "hanzi": "不介意",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "之战",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "乌鲁木齐",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "众议院",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "圣诞",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "开出",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "开来",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "打出",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "曹操",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "最有",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "期货",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "桂林",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "比尔",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "港澳",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "知乎",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "脸书",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "财政部",
+    "frequency": 4.03
+  },
+  {
+    "hanzi": "共和党",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "写出",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "前去",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "卡斯",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "史密斯",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "备受",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "央行",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "委内瑞拉",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "威尔",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "实事求是",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "徐州",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "德语",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "扬州",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "文化大革命",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "日常生活",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "望远镜",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "格拉",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "桃园",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "此人",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "第一名",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "第三个",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "经贸",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "身旁",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "这回",
+    "frequency": 4.02
+  },
+  {
+    "hanzi": "一趟",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "一门",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "两只",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "中药",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "克里斯",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "八大",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "再有",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "几句",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "利亚",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "华语",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "县长",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "多位",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "字样",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "店里",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "或者说",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "托马斯",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "日电",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "时会",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "沙特",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "河北省",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "深圳市",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "第一部",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "阿尔巴尼亚",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "阿曼",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "隶属于",
+    "frequency": 4.01
+  },
+  {
+    "hanzi": "一中",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "一出",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "一战",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "两场",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "九年",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "九龙",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "做个",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "全国人民代表大会",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "卫生部",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "国防部长",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "图库",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "天津市",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "太棒了",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "安妮",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "德军",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "情人节",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "日内瓦",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "曼哈顿",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "曼谷",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "泰勒",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "环境保护",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "珠海",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "用水",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "第一届",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "维多利亚",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "设在",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "长安",
+    "frequency": 4.0
+  },
+  {
+    "hanzi": "万个",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "下半年",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "不难",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "两会",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "中国人民解放军",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "丹尼",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "他家",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "保加利亚",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "回族",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "彷佛",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "手持",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "河内",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "这本",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "青睐",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "麦当劳",
+    "frequency": 3.99
+  },
+  {
+    "hanzi": "下旬",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "之心",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "事发",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "借用",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "出狱",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "十五年",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "大部份",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "安卓",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "干隆",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "无能为力",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "星期二",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "本站",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "杰克",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "标识",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "点儿",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "狱中",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "第一批",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "范冰冰",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "该市",
+    "frequency": 3.98
+  },
+  {
+    "hanzi": "一票",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "一脸",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "两张",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "之地",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "二号",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "刘少奇",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "华东",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "华尔街",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "周三",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "国军",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "引来",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "总有",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "拿破仑",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "星期四",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "留下来",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "祭祀",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "福特",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "米尔",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "纪委",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "美方",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "该党",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "邮报",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "重庆市",
+    "frequency": 3.97
+  },
+  {
+    "hanzi": "不小",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "中日",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "人民检察院",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "克林顿",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "利比亚",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "发现自己",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "取自",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "哈佛",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "坠毁",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "外交部长",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "实名制",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "实录",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "富豪",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "已成",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "斯坦",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "法师",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "洛克",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "玛利亚",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "生日快乐",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "短短",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "立法院",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "第八",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "老挝",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "耶路撒冷",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "藏族",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "越是",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "那条",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "金山",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "阿尔",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "马德里",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "高雄",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "黎巴嫩",
+    "frequency": 3.96
+  },
+  {
+    "hanzi": "一圈",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "一页",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "三千",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "中央电视台",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "之意",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "亦可",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "佛山",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "克里",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "写给",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "华文",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "吉隆坡",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "周四",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "哈萨克斯坦",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "夏威夷",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "小于",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "就行了",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "尼日利亚",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "广州市",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "抉择",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "支部",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "数千",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "新华",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "查理",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "桌上",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "樱花",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "汤姆",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "淘宝",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "真有",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "第二次世界大战",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "英超",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "路透社",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "道教",
+    "frequency": 3.95
+  },
+  {
+    "hanzi": "一整天",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "东汉",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "中队",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "乃是",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "之子",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "亚美尼亚",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "做过",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "南美",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "四位",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "尼斯",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "建于",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "接著",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "数次",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "更高",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "有何",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "有史以来",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "机上",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "查尔斯",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "江西省",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "石家庄",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "篇文章",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "联合国教科文组织",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "说来",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "迈阿密",
+    "frequency": 3.94
+  },
+  {
+    "hanzi": "不靠",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "中央军委",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "五千",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "人民网",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "修行",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "党组织",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "共产党员",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "冰岛",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "安徽省",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "小姑娘",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "常有",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "您好",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "所用",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "指着",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "文化部",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "日本政府",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "有期徒刑",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "本案",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "格里",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "爱德华",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "玩意儿",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "车票",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "迈克尔",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "进修",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "送往",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "送来",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "镇上",
+    "frequency": 3.93
+  },
+  {
+    "hanzi": "一双",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "一幕",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "不起",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "不足以",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "中小学",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "之夜",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "公投",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "出访",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "利物浦",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "加勒比",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "区内",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "南路",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "口岸",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "古迹",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "国民政府",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "处以",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "巡抚",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "房租",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "拉拉",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "摩洛哥",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "政府部门",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "文中",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "斯洛伐克",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "斯里兰卡",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "烟台",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "真是太",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "维尔",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "见过",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "责任感",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "路易斯",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "防线",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "面上",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "马来",
+    "frequency": 3.92
+  },
+  {
+    "hanzi": "一回",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "一派",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "三家",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "五百",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "亚当",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "人有",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "体检",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "哈佛大学",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "唐代",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "小男孩",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "悉尼",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "拉斯",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "星系",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "普京",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "最深",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "有过",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "林彪",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "此种",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "法兰西",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "瞧瞧",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "经济效益",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "维吾尔",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "美国国会",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "贵阳",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "辽宁省",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "这样的话",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "青蛙",
+    "frequency": 3.91
+  },
+  {
+    "hanzi": "一班",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "二氧化碳",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "兼顾",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "加勒比海",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "南美洲",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "司法部",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "哪有",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "四名",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "大叫",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "小队",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "尚有",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "慰问",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "拉姆",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "摩根",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "新城",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "有限责任",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "汉中",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "现场直播",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "窗外",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "管理者",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "请来",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "边上",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "这群",
+    "frequency": 3.9
+  },
+  {
+    "hanzi": "一倍",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "一团",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "三百",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "中小企业",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "之力",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "亚太",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "亚州",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "保险公司",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "偷拍",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "儒家",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "克罗地亚",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "全县",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "出差",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "刚果",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "前行",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "剧中",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "华南",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "印度人",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "厂房",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "哈萨克",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "墨尔本",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "安理会",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "定为",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "并用",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "德意志",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "数个",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "日晚",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "李鹏",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "林肯",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "格林",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "武汉市",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "活在",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "用到",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "目前为止",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "看吧",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "给钱",
+    "frequency": 3.89
+  },
+  {
+    "hanzi": "一瓶",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "万平方米",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "三峡",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "京东",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "关爱",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "哪来",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "图文",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "多处",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "宣传部",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "家电",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "当地人",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "欧洲人",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "福建省",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "第三季",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "第九",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "纹身",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "网吧",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "贝克",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "这篇",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "那场",
+    "frequency": 3.88
+  },
+  {
+    "hanzi": "两部",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "中南",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "中国队",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "中新网",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "之道",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "任教",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "几张",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "嘉靖",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "四点",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "场上",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "塔克",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "大连市",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "太久",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "孟加拉",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "安东尼",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "对阵",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "建交",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "微博上",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "摆在",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "星期三",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "武昌",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "浪费时间",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "理工",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "琼斯",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "真想",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "肯尼亚",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "英美",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "萨拉",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "西雅图",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "议事",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "诺贝尔奖",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "读完",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "费城",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "转过",
+    "frequency": 3.87
+  },
+  {
+    "hanzi": "一站",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "一队",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "万人次",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "不至于",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "之王",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "乌拉圭",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "二是",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "五分",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "五天",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "五点",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "六四",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "南京市",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "卡洛斯",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "印度洋",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "县市",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "只用",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "台州",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "天后",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "对外开放",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "常州",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "建有",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "开罗",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "数十",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "机型",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "看电视",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "约旦",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "罗马帝国",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "背上",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "西伯利亚",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "迪士尼",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "飞往",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "马里",
+    "frequency": 3.86
+  },
+  {
+    "hanzi": "一发",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "三代",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "不论是",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "东盟",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "保定",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "八点",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "六个月",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "内政部",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "几内亚",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "各式",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "各部",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "四人",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "多岁",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "太高",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "女演员",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "干吗",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "效忠",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "曼联",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "犯下",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "玩游戏",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "科索沃",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "第五届",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "维吾尔族",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "自已",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "观音",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "诺基亚",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "这名",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "这辈子",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "题为",
+    "frequency": 3.85
+  },
+  {
+    "hanzi": "一届",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "三日",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "书中",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "五分钟",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "军中",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "农业部",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "只得",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "叶子",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "大清",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "总队",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "报考",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "新世纪",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "此案",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "永乐",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "流经",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "电商",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "西游记",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "解放区",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "车里",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "送回",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "遥控",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "那次",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "那段",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "高等学校",
+    "frequency": 3.84
+  },
+  {
+    "hanzi": "一国",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "一波",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "一脚",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "专页",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "五位",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "今天下午",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "以示",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "伯格",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "党委书记",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "公安部",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "六点",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "十八年",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "十分钟",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "十天",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "千万别",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "各州",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "听过",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "国庆",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "在校",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "太小",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "很强",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "戴尔",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "母狗",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "熟知",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "特里",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "直隶",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "离家",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "竟是",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "米奇",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "红楼梦",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "绍兴",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "绝不会",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "罗斯福",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "菲利普",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "蒙特",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "袁世凯",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "西门",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "贝拉",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "这首",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "霍华德",
+    "frequency": 3.83
+  },
+  {
+    "hanzi": "三层",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "丰田",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "二十四",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "五名",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "八路军",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "内有",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "副局长",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "勒斯",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "匈奴",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "原材料",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "发表声明",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "哈尔",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "大同",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "大阪",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "州政府",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "巴里",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "布尔",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "希尔",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "很漂亮",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "总有一天",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "成份",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "我怕",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "所述",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "打着",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "新世界",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "新区",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "更何况",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "树上",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "格雷",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "武汉大学",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "每位",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "汉口",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "港元",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "班主任",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "用药",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "留守",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "真主",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "豆瓣",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "这么久",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "迪克",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "部委",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "闭嘴",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "阿尔及利亚",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "集团公司",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "韩剧",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "马列",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "鸭子",
+    "frequency": 3.82
+  },
+  {
+    "hanzi": "一周年",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "一碗",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "伊丽莎白",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "何种",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "克拉克",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "几家",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "刘备",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "印第安人",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "原版",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "各有",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "咖啡馆",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "哪位",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "四种",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "地被",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "宋代",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "实为",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "封信",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "巡演",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "平壤",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "座谈",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "户部",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "所作所为",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "玻利维亚",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "福岛",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "索马里",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "老人家",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "聊聊",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "节度使",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "阿里巴巴",
+    "frequency": 3.81
+  },
+  {
+    "hanzi": "不高",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "为民",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "会为",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "受够了",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "只见",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "台湾省",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "哈里",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "喇嘛",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "四人帮",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "城内",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "好象",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "学家",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "批复",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "数十万",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "曙光",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "最受",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "法兰克福",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "真话",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "第一条",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "葡萄牙语",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "行政院",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "该是",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "软禁",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "连续剧",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "逃出",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "里斯",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "阿姆斯特丹",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "阿拉伯人",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "随著",
+    "frequency": 3.8
+  },
+  {
+    "hanzi": "黑龙江省",
+    "frequency": 3.8
+  }
+]

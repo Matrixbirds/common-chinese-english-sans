@@ -1,0 +1,24 @@
+{
+  "name": "common-chinese-english-sans",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "node --test src/planner.test.ts",
+    "font:fetch": "node src/cli.ts fetch",
+    "plan": "node src/cli.ts plan",
+    "build": "node src/cli.ts build",
+    "verify": "node src/cli.ts verify",
+    "package": "node src/cli.ts package",
+    "demo": "node src/cli.ts demo"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}
