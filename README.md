@@ -4,6 +4,8 @@
 
 ![字体预览](docs/preview.png)
 
+[在线 Demo](https://matrixbirds.github.io/common-chinese-english-sans/)
+
 - 8,829 个英文标注词形，239 个整词保护规则。
 - 默认开源底字 Noto Sans SC Regular，保留其 30,890 个字符映射。
 - 最长词优先：“中国人”显示 Chinese；“中国”显示 China。
@@ -34,6 +36,12 @@ npm run demo
 浏览器打开 `http://127.0.0.1:8765/demo/`。预览通过 HTTP 读取词库，不要双击 HTML 用 file:// 打开。
 
 Windows 可先激活虚拟环境，或通过环境变量 `PYTHON` 指定 Python 解释器。macOS/Linux 默认优先使用项目 `.venv/bin/python`。
+
+## GitHub Pages 演示
+
+仓库的 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**。推送到 main 或在 main 上手动运行 `Check and build fonts` 后，通过检查的字体与 demo 会自动部署到上方在线地址；PR 只构建检查，不发布。
+
+本地运行 `npm run build` 后，执行 `npm run pages:build` 生成 `dist/site/`。可用 `python3 -m http.server 8765 --directory dist/site` 预览发布目录。站点首页自动进入 `demo/`，所有资源使用相对路径，支持 GitHub Pages 的仓库子路径。发布目录只包含 demo、词库、预览字体和许可文件，不提交生成文件到 Git。
 
 `font:fetch` 下载 Noto Sans SC，并验证配置中的 SHA-256；已有缓存也要通过校验。下载失败可手动把配置 URL 的文件放到 `.cache/base.otf`，命令仍会验证摘要。上游文件变化时构建会停止，不会静默替换底字。
 

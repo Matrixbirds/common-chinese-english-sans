@@ -15,7 +15,8 @@
     "build": "node src/cli.ts build",
     "verify": "node src/cli.ts verify",
     "package": "node src/cli.ts package",
-    "demo": "node src/cli.ts demo"
+    "demo": "node src/cli.ts demo",
+    "pages:build": "node scripts/build-pages.mjs"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
